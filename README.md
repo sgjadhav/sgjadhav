@@ -14,25 +14,26 @@
 
 - 🎓 **2nd Year Student** at **IIIT Nagpur** (Specializing in AI/ML).
 - 🤖 Deeply interested in **Deep Learning**, **Data Science**, and **LLM Orchestration**.
-- ✍️ **Editor-in-Chief** for the "Campus Pulse" newsletter.
-- 🏛️ Active member of the **CRISPR Club**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Core Languages & Frameworks**
+**Core Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,sklearn,tensorflow,pytorch,git,vscode,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,pytorch,git,vscode,linux,github&perline=10" />
 </p>
 
 **Data Science & AI Engineering**
 <p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorDB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorDB-13aa52?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
 ---
