@@ -3,10 +3,7 @@
 # Hi there! I'm 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Saurabh+Jadhav;AI+/+ML+Enthusiast;IIIT+Nagpur+Student" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgjadhav&show_icons=true&theme=tokyonight" alt="Saurabh's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgjadhav&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+
 
 ---
 
