@@ -1,24 +1,39 @@
 <div align="center">
 
-# Hi there! I'm 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Saurabh+Jadhav;AI+/+ML+Enthusiast;IIIT+Nagpur+Student" alt="Typing SVG" /></a>
+# Hi there! I'm
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Saurabh+Jadhav;AI+%2F+ML+Enthusiast;Backend+%2B+LLM+Systems;IIIT+Nagpur+Student" alt="Typing SVG" /></a>
 
 
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **2nd Year Student** at **IIIT Nagpur** (Specializing in AI/ML).
-- 🤖 Deeply interested in **Deep Learning**, **Data Science**, and **LLM Orchestration**.
-
+- 🎓 **3rd Year Student** at **IIIT Nagpur**, specializing in AI/ML.
+- 🤖 For me Code is just the output — the thinking behind it is the actual craft.
+- 🛠️ Currently building backend systems that connect **production APIs**.
+- 🌱 Learning **FastAPI**, **Pydantic**, and **PostgreSQL** to ship full-stack AI applications, not just notebooks.
+- ⚡ Fun fact: I'd rather debug a broken pipeline at 2 AM than leave a model un-deployed.
+- 🍋 Running on low battery 24/7 — lemon water is the only known charger.
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Core Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,pytorch,git,vscode,linux,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,postgres,pytorch,git,vscode,linux,github&perline=10" />
+</p>
+
+**Backend & APIs**
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-2A308B?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 **Data Science & AI Engineering**
@@ -35,15 +50,11 @@
 
 ---
 
-### 📊 GitHub Activity
-![](https://github-readme-streak-stats.herokuapp.com/?user=sgjadhav&theme=tokyonight)
+### 📬 Connect with me
 
-<br/>
-
-### 📬 Connect with me:
 <p align="center">
 <a href="https://www.linkedin.com/in/saurabh-jadhav-8ba136323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sgjadhav17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
