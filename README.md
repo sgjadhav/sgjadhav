@@ -15,7 +15,6 @@
 - 🤖 For me Code is just the output — the thinking behind it is the actual craft.
 - 🛠️ Currently building backend systems that connect **production APIs**.
 - 🌱 Learning **FastAPI**, **Pydantic**, and **PostgreSQL** to ship full-stack AI applications, not just notebooks.
-- ⚡ Fun fact: I'd rather debug a broken pipeline at 2 AM than leave a model un-deployed.
 - 🍋 Running on low battery 24/7 — lemon water is the only known charger.
 ---
 
